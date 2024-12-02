@@ -1,1 +1,2 @@
 time="2024-12-02T09:15:52+03:00" level=error msg="Error:pg_waldump utility not found. Is Postgres installed correctly?"
+time="2024-12-02T09:53:33+03:00" level=error msg="Error:pg_waldump utility not found. Is Postgres installed correctly?"

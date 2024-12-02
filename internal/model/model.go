@@ -24,7 +24,7 @@ var (
 const (
 	cursorModeText  = "Enter the path to the backup directory"
 	quitKeySequence = "ctrl+c, q"
-	programName     = "Backup Restorer"
+	programName     = "PostgreSQL Backup Restorer"
 )
 
 type Model struct {
